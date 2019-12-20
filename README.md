@@ -1,4 +1,4 @@
-Predicting wine quality
+Predicting red wine's quality
 ===============
 ###### _All data here presented can be obtained on the website:_ (http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)
 
